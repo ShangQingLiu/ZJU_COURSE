@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/ShangChingLiu/CLionProjects/ROPCR/main.cpp
+iostream
+-
+string
+-
+cstring
+-
+streambuf
+-
+fstream
+-
+algorithm
+-
+

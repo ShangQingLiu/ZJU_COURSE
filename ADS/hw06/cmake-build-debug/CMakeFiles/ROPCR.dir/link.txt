@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ROPCR.dir/main.cpp.o  -o ROPCR.exe -Wl,--out-implib,libROPCR.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
